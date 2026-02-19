@@ -22,7 +22,7 @@ Using `CASE` statements, I categorized coaches into three groups:
 * **Young Prospect:** Under 40 years old.
 * **Mid-Career:** 40 - 55 years old.
 * **Veteran:** 55+ years old.
-
+![Results](results.jpg)
 ## How to Run
 1. Download the `female_coaches.csv` from the `data/` folder.
 2. Import it into DB Browser for SQLite.
